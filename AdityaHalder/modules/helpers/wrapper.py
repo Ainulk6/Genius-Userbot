@@ -68,7 +68,7 @@ def inline_wrapper(func):
                     [
                         InlineKeyboardButton(
                             "💥 Deploy Genius Userbot ✨",
-                            url=f"https://github.com/AdityaHalder/Genius-Userbot"
+                            url=f"httpsAdityaHalder/Genius-Userbot"
                         )
                     ]
                 ]
@@ -98,7 +98,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**🥀 Please, Deploy Your Own Genius Userbot❗...\n\nRepo:** <i>https://github.com/AdityaHalder/Genius-Userbot/</i>||"
+                                    f"||**🥀 Please, Deploy Your Own Genius Userbot❗...\n\nRepo:** <i>httyaHalder/Genius-Userbot/</i>||"
                                 ),
                             )
                         )
