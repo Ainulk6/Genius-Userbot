@@ -14,7 +14,7 @@ async def main():
     await run_async_clients()
     for all_plugin in ALL_PLUGINS:
         imported_plugin = importlib.import_module(
-            "AdityaHalder.plugins" + all_plugin
+            "AK_ARMAN_07.plugins" + all_plugin
         )
         if (hasattr
             (
@@ -34,7 +34,7 @@ async def main():
     await run_async_inline()
     logs.info("Successfully Deployed !!")
     await run_async_calls()
-    logs.info("Do Visit - @AdityaServer")
+    logs.info("Do Visit - @AK_ARMAN_79")
     await idle()
 
 
